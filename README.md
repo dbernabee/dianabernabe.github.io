@@ -10,9 +10,11 @@ Particle Physics Research, Climate Sustainability.
 --2024-- 
 
   Harvard Latina Empowerment & Development Conference
+
 |
   
   NSLY-I Kaohsiung, Taiwan Summer Study Abroad
+
 |
   
   Stanford Summer Engineering Academy
