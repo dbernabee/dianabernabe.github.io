@@ -9,7 +9,7 @@ Particle Physics Research, Climate Sustainability.
 
 ## --2024-- 
 
-  ## February
+  ### February
 
   Harvard Latina Empowerment & Development Conference
 
