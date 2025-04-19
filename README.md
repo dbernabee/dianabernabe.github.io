@@ -7,7 +7,7 @@ Particle Physics Research, Climate Sustainability.
 
 # Experiences
 
-## --2024-- 
+## 2024✨
 
   ### February
 
