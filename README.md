@@ -11,7 +11,8 @@ Particle Physics Research, Climate Sustainability.
 
   Harvard Latina Empowerment & Development Conference
 
-| June, July
+| 
+  ### June, July
   
   NSLY-I Kaohsiung, Taiwan Summer Study Abroad
 
