@@ -3,23 +3,8 @@ I am a first-year student @ Stanford University.
 
 Electrical Engineering Major.
 
-Particle Physics Research, Climate Sustainability.
+Interested in Particle Physics Research, Avionics, Analog/Digital Signal Processing, LTI Systems, Climate Sustainability, Interactive Art, Game Design, EdTech, & much more...!
 
-# Experiences
-
-## 2024✨
-
-  ### February
-
-  Harvard Latina Empowerment & Development Conference
-
-  ### June, July
-  
-  NSLY-I Kaohsiung, Taiwan Summer Study Abroad
-  
-  Stanford Summer Engineering Academy
-
-## 2025✨
 
 # Projects 
 
