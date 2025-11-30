@@ -1,5 +1,3 @@
-
-# About Me
 I am a first-year student @ Stanford University. 
 
 Electrical Engineering Major.
