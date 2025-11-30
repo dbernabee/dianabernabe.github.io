@@ -8,9 +8,9 @@ Interested in Particle Physics Research, Avionics, Analog/Digital Signal Process
 
 # Projects 
 
-ChemE Car 
+## ChemE Car 
 
-First Nations Launch
+## First Nations Launch
 
 
 ![200w](https://github.com/user-attachments/assets/45355552-cfde-41ea-b8a9-4190ae04bd1e)
